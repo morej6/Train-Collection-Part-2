@@ -1,0 +1,16 @@
+C:\Users\Juan Moreno\Documents\Visual Studio 2015\C# Project\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\bin\Debug\JuanMoreno.BCS450.Assigment1.exe.config
+C:\Users\Juan Moreno\Documents\Visual Studio 2015\C# Project\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\bin\Debug\JuanMoreno.BCS450.Assigment1.exe
+C:\Users\Juan Moreno\Documents\Visual Studio 2015\C# Project\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\bin\Debug\JuanMoreno.BCS450.Assigment1.pdb
+C:\Users\Juan Moreno\Documents\Visual Studio 2015\C# Project\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\obj\Debug\JuanMoreno.BCS450.Assigment1.exe
+C:\Users\Juan Moreno\Documents\Visual Studio 2015\C# Project\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\obj\Debug\JuanMoreno.BCS450.Assigment1.pdb
+C:\Users\Juan Moreno\Documents\Visual Studio 2015\C# Project\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\bin\Debug\Assigment1.dll
+C:\Users\Juan Moreno\Documents\Visual Studio 2015\C# Project\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\bin\Debug\Assigment1.pdb
+C:\Users\Juan Moreno\Documents\Visual Studio 2015\C# Project\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\obj\Debug\JuanMoreno.BCS450.Assigment1.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\C# Project\Assigment 2\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\bin\Debug\JuanMoreno.BCS450.Assigment1.exe.config
+D:\Visual Studio 2015\C# Project\Assigment 2\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\obj\Debug\JuanMoreno.BCS450.Assigment1.exe
+D:\Visual Studio 2015\C# Project\Assigment 2\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\obj\Debug\JuanMoreno.BCS450.Assigment1.pdb
+D:\Visual Studio 2015\C# Project\Assigment 2\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\bin\Debug\JuanMoreno.BCS450.Assigment1.exe
+D:\Visual Studio 2015\C# Project\Assigment 2\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\bin\Debug\JuanMoreno.BCS450.Assigment1.pdb
+D:\Visual Studio 2015\C# Project\Assigment 2\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\bin\Debug\Assigment1.dll
+D:\Visual Studio 2015\C# Project\Assigment 2\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\bin\Debug\Assigment1.pdb
+D:\Visual Studio 2015\C# Project\Assigment 2\JuanMoreno.BCS450.Assigment1\JuanMoreno.BCS450.Assigment1\obj\Debug\JuanMoreno.BCS450.Assigment1.csprojResolveAssemblyReference.cache
